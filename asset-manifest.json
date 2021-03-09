@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Safometer/static/css/main.e600deba.chunk.css",
+    "main.js": "/Safometer/static/js/main.a38e8eb7.chunk.js",
+    "main.js.map": "/Safometer/static/js/main.a38e8eb7.chunk.js.map",
+    "runtime-main.js": "/Safometer/static/js/runtime-main.3f7dbca6.js",
+    "runtime-main.js.map": "/Safometer/static/js/runtime-main.3f7dbca6.js.map",
+    "static/css/2.43c890f3.chunk.css": "/Safometer/static/css/2.43c890f3.chunk.css",
+    "static/js/2.42bb528a.chunk.js": "/Safometer/static/js/2.42bb528a.chunk.js",
+    "static/js/2.42bb528a.chunk.js.map": "/Safometer/static/js/2.42bb528a.chunk.js.map",
+    "index.html": "/Safometer/index.html",
+    "static/css/2.43c890f3.chunk.css.map": "/Safometer/static/css/2.43c890f3.chunk.css.map",
+    "static/css/main.e600deba.chunk.css.map": "/Safometer/static/css/main.e600deba.chunk.css.map",
+    "static/js/2.42bb528a.chunk.js.LICENSE.txt": "/Safometer/static/js/2.42bb528a.chunk.js.LICENSE.txt",
+    "static/media/logo.72fcf077.jpg": "/Safometer/static/media/logo.72fcf077.jpg",
+    "static/media/logo2.72fcf077.jpg": "/Safometer/static/media/logo2.72fcf077.jpg",
+    "static/media/sun.6d359907.svg": "/Safometer/static/media/sun.6d359907.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f7dbca6.js",
+    "static/css/2.43c890f3.chunk.css",
+    "static/js/2.42bb528a.chunk.js",
+    "static/css/main.e600deba.chunk.css",
+    "static/js/main.a38e8eb7.chunk.js"
+  ]
+}
