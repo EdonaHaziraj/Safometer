@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "id": 520405, "Gjendja": "E mirÃ«", "KordinataX": 21.16562, "KordinataY": 42.65899 }, "geometry": { "type": "Point", "coordinates": [ 21.165623827051164, 42.658993486396731 ] } },
+{ "type": "Feature", "properties": { "id": 520406, "Gjendja": "E mirÃ«", "KordinataX": 21.16598, "KordinataY": 42.65898 }, "geometry": { "type": "Point", "coordinates": [ 21.165976597875026, 42.658979287403568 ] } },
+{ "type": "Feature", "properties": { "id": 520408, "Gjendja": "Jo e mirÃ«", "KordinataX": 21.16651, "KordinataY": 42.6589 }, "geometry": { "type": "Point", "coordinates": [ 21.166513534061405, 42.658897106063506 ] } },
+{ "type": "Feature", "properties": { "id": 520409, "Gjendja": "Jo e mirÃ«", "KordinataX": 21.1665, "KordinataY": 42.65888 }, "geometry": { "type": "Point", "coordinates": [ 21.166504715555003, 42.658879167676766 ] } },
+{ "type": "Feature", "properties": { "id": 520410, "Gjendja": "E mirÃ«", "KordinataX": 21.16647, "KordinataY": 42.65868 }, "geometry": { "type": "Point", "coordinates": [ 21.166466294060371, 42.658677996438605 ] } },
+{ "type": "Feature", "properties": { "id": 520414, "Gjendja": "E mirÃ«", "KordinataX": 21.16642, "KordinataY": 42.65841 }, "geometry": { "type": "Point", "coordinates": [ 21.166415206097547, 42.658414478258926 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16499, "KordinataY": 42.65506 }, "geometry": { "type": "Point", "coordinates": [ 21.164991845244476, 42.655055493890735 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16514, "KordinataY": 42.65522 }, "geometry": { "type": "Point", "coordinates": [ 21.165140581532892, 42.655216470133219 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "Jo e mirë", "KordinataX": 21.16523, "KordinataY": 42.65541 }, "geometry": { "type": "Point", "coordinates": [ 21.16523411002866, 42.655414704399341 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16514, "KordinataY": 42.65548 }, "geometry": { "type": "Point", "coordinates": [ 21.16513798351912, 42.655484922168576 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16536, "KordinataY": 42.65572 }, "geometry": { "type": "Point", "coordinates": [ 21.165360113696572, 42.655718503156855 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16712, "KordinataY": 42.65638 }, "geometry": { "type": "Point", "coordinates": [ 21.167122866040408, 42.65637911703061 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16762, "KordinataY": 42.65669 }, "geometry": { "type": "Point", "coordinates": [ 21.16761908667074, 42.656685299388812 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16736, "KordinataY": 42.65675 }, "geometry": { "type": "Point", "coordinates": [ 21.167360584300489, 42.656749783780647 ] } },
+{ "type": "Feature", "properties": { "id": 33, "Gjendja": "E mirë", "KordinataX": 21.16701, "KordinataY": 42.65682 }, "geometry": { "type": "Point", "coordinates": [ 21.167007254427585, 42.656817134074068 ] } },
+{ "type": "Feature", "properties": { "id": 210032, "Gjendja": "Jo e mirÃ«", "KordinataX": 21.16374, "KordinataY": 42.65928 }, "geometry": { "type": "Point", "coordinates": [ 21.163740122509452, 42.659284294980878 ] } },
+{ "type": "Feature", "properties": { "id": 210033, "Gjendja": "E mirÃ«", "KordinataX": 21.16415, "KordinataY": 42.65925 }, "geometry": { "type": "Point", "coordinates": [ 21.164145761790678, 42.659251065989658 ] } },
+{ "type": "Feature", "properties": { "id": 210056, "Gjendja": "E mirÃ«", "KordinataX": 21.1634, "KordinataY": 42.65933 }, "geometry": { "type": "Point", "coordinates": [ 21.163401529276225, 42.659330662387724 ] } },
+{ "type": "Feature", "properties": { "id": 210133, "Gjendja": "E mirÃ«", "KordinataX": 21.1617, "KordinataY": 42.659 }, "geometry": { "type": "Point", "coordinates": [ 21.161703618576968, 42.659003530139522 ] } }
+    
+  ]
+}

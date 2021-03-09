@@ -1,0 +1,87 @@
+body,
+#root {
+  height: 100vh;
+  width: 100vw;
+}
+.first-icon {
+  color: lightcoral;
+}
+.second-icon {
+  color: yellow;
+}
+.third-icon {
+  color: blue;
+}
+
+.ul-list {
+  font-family: Arial, Helvetica, sans-serif;
+  list-style-type: none;
+  margin-top: 40px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.li-list {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: solid;
+  color: #ffffff;
+}
+
+.li-list a {
+  display: block;
+  color: white;
+  text-align: center;
+  /* padding: 14px 16px; */
+  text-decoration: none;
+}
+
+.platform:hover {
+  opacity: 80%;
+}
+a {
+  /* margin-top: 22px; */
+}
+
+.float-right {
+  float: right;
+}
+.nav-name {
+  height: 90px;
+  font-family: Arial;
+  font-size: 35px;
+  width: auto;
+  position: center;
+
+  margin-left: 120px;
+}
+.main {
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  background-color: #ffffff;
+  font-size: 14px;
+  -webkit-align-content: start;
+  align-content: start;
+}
+
+.main-app {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex: 1 1;
+  flex: 1 1;
+}
+
+.main-map {
+  -webkit-flex: 1 1;
+  flex: 1 1;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+}
